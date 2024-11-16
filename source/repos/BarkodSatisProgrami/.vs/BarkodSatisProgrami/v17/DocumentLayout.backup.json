@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|c:\\users\\ms\u0131\\source\\repos\\barkodsatisprogrami\\barkodsatisprogrami\\fstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\fstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\fstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\fstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\frapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\frapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\frapor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\frapor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\frapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\frapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|c:\\users\\ms\u0131\\source\\repos\\barkodsatisprogrami\\barkodsatisprogrami\\rpstokurun.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\rpstokurun.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\fstok.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\fstok.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\rpgenelrapor.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\rpgenelrapor.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\furungiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\furungiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\furungiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\furungiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\barkodsatisprogrami\\fsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E433C1A-0023-415D-AF7D-4D02E123369E}|BarkodSatisProgrami\\BarkodSatisProgrami.csproj|solutionrelative:barkodsatisprogrami\\fsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Raporlar.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\Raporlar.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\Raporlar.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\Raporlar.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\Raporlar.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwFAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:05:35.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fStok.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fStok.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\fStok.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAD4v3IAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:07:25.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fStok.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fStok.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BarkodSatisProgrami\\fStok.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:53:05.334Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rpStokUrun.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\rpStokUrun.rdlc",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\rpStokUrun.rdlc",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\rpStokUrun.rdlc [Design]",
+              "RelativeToolTip": "BarkodSatisProgrami\\rpStokUrun.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-15T11:38:49.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fRapor.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fRapor.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\fRapor.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwIsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:14:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fRapor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.Designer.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fRapor.Designer.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.Designer.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\fRapor.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAvwJYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:13:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fRapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fRapor.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fRapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BarkodSatisProgrami\\fRapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:13:16.69Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rpGenelRapor.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\rpGenelRapor.rdlc",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\rpGenelRapor.rdlc",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\rpGenelRapor.rdlc [Design]",
+              "RelativeToolTip": "BarkodSatisProgrami\\rpGenelRapor.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-10T15:47:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\Program.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\Program.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:36:29.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fStok.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.Designer.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fStok.Designer.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fStok.Designer.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\fStok.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAD4v4QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:53:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fUrunGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fUrunGiris.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fUrunGiris.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fUrunGiris.cs",
+              "RelativeToolTip": "BarkodSatisProgrami\\fUrunGiris.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAuwAcBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:27:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fsatis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fsatis.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fsatis.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fsatis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BarkodSatisProgrami\\fsatis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:25:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fUrunGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fUrunGiris.cs",
+              "RelativeDocumentMoniker": "BarkodSatisProgrami\\fUrunGiris.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\BarkodSatisProgrami\\BarkodSatisProgrami\\fUrunGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BarkodSatisProgrami\\fUrunGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:24:48.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
